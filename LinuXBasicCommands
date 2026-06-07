@@ -7,7 +7,7 @@ create a direcotry: mkdir foldername
 create folderinside a folder: mkdir -p folder1/folder2
 rmdir foldername
 disk usage: df -h
-cpu and memory allocation: top
+cpu and memory uage: top
 no.of cpu's alloacted: nproc
 memory usage: free
 change direcotry: cd
