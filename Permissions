@@ -1,0 +1,14 @@
+chmod - commands that grnats permissions
+ch stands for change
+chmod divids into 3 catagories of permissions
+user/root
+group
+everyone
+
+chmod 777 filename (grants permissions for everyone)
+
+7 - for myslef
+7 - for my gorup
+7- for everyone
+
+4 (read) - 2 (write) - 1 (execute) = 7
