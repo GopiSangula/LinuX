@@ -11,4 +11,5 @@ no.of cpu's alloacted: nproc
 memory usage: free
 change direcotry: cd
 go to parent directory: cd ..
+to identify the present working directory: pwd
 To know the Home Path: echo $HOME
