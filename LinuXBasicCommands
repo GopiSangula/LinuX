@@ -1,0 +1,13 @@
+Create a file - touch filename
+List files - ls
+List files with properties -> ls -ltr
+create a file and open to write the content -> vim filename
+create a direcotry-> mkdir foldername
+create folderinside a folder-> mkdir -p folder1/folder2
+disk usage-> df -h
+cpu and memory allocation: top
+no.of cpu's alloacted: nproc
+memory usage: free
+change direcotry: cd
+go to parent directory: cd ..
+To know the Home Path: echo $HOME
