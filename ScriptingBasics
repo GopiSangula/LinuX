@@ -6,6 +6,10 @@
 /bin/sh - 
 ksh/bash/dash/sh are executables that are needed to exucute the shell scirpt, vary slightly interms of syntax. Most popular use is bash
 
+To execute a file
+./filename.sh
+
+
 #!/bin/bash
 
 echo "I want to become devops Eneer"
