@@ -1,0 +1,11 @@
+#!/bin/ksh
+#!/bin/bash
+#!/bin/dash
+#!/bin/sh
+#!/ - shebang
+/bin/sh - 
+ksh/bash/dash/sh are executables that are needed to exucute the shell scirpt, vary slightly interms of syntax. Most popular use is bash
+
+#!/bin/bash
+
+echo "I want to become devops Eneer"
